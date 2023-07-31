@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "date": "Mon Jul 31 2023",
+      "text": "Sports",
+      "id": 10
+    },
+    {
+      "text": "Study always",
+      "id": 11
+    },
+    {
+      "date": "Mon Jul 31 2023",
+      "text": "Gym",
+      "id": 12
+    },
+    {
+      "date": "Mon Jul 31 2023",
+      "text": "Playstation",
+      "id": 13
+    },
+    {
+      "date": "Mon Jul 31 2023",
+      "text": "Sleep",
+      "id": 14
+    }
+  ]
+}
